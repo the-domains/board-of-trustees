@@ -39,6 +39,9 @@ navigation:
   - name: Sociocyberneering
     url: 'https://www.facebook.com/sociocurrency'
     type: external
+  - name: Super Malls Coin Development
+    url: 'https://www.facebook.com/SuperMallsCoin/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7e49d4-8355-45f6-9451-8f75fb7ec1d1.png
 title: The Board of Trustees
