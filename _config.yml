@@ -1,0 +1,43 @@
+typography_spectrum: 0.574730668682605
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.37024144432507455
+  lightness: 0.5719420358072966
+  saturation: 0.9985208204016089
+  rhythmicContrast: 0.4710929640568793
+github: true
+opengraph:
+  appId: So-ong
+layout_spectrum: 0.4629309482406825
+analytics:
+  twitter: Sentribe
+author:
+  name: Rey So-ong
+  email: rothschildscoin@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/25cee81b-097f-435e-9b95-f63151f9c1ad.png
+name: Board of Trustees
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Country Coin Development Projects
+    url: 'https://www.facebook.com/CountryCOIN/'
+    type: external
+  - name: Social Enterprise Network Cooperatives Development Projects
+    url: 'https://www.facebook.com/Sencop'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7e49d4-8355-45f6-9451-8f75fb7ec1d1.png
+title: The Board of Trustees
+content: []
+description: The First Blockchain-Based Board of Trustees on earth
