@@ -31,7 +31,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Country Coin Development Projects
-    url: 'https://www.facebook.com/CountryCOIN/'
+    url: 'https://thegrid.ai/countrycoin/'
     type: external
   - name: Social Enterprise Network Cooperatives Development Projects
     url: 'https://thegrid.ai/sencop/'
@@ -43,7 +43,7 @@ navigation:
     url: 'https://thegrid.ai/super-malls-coin/'
     type: external
   - name: Social Media Currency Group
-    url: 'https://www.facebook.com/SocialMediaCurrencyGroup/'
+    url: 'https://thegrid.ai/socialmediacurrency/'
     type: external
   - name: Social Media Charity
     url: 'https://www.facebook.com/SocialMediaCharityGroup/'
@@ -53,6 +53,15 @@ navigation:
     type: external
   - name: International Standardization Organizations for Cashless Societies
     url: 'https://thegrid.ai/isocs/'
+    type: external
+  - name: KaratBank Coin Development
+    url: 'https://thegrid.ai/karatbankcoin/'
+    type: external
+  - name: KaratBank Foundation Development
+    url: 'https://thegrid.ai/karatbankfoundation/'
+    type: external
+  - name: Super Malls Coin Development
+    url: 'https://thegrid.ai/supermallscoin/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7e49d4-8355-45f6-9451-8f75fb7ec1d1.png
